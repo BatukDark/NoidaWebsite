@@ -1,0 +1,7 @@
+touch .gitignore
+git init
+git add.
+git commit -m ''initail'
+
+ generate the ssh kye command->
+ ssh-keygen -t ed25519 -C "your_email@example.com"
